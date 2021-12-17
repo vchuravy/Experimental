@@ -3,3 +3,4 @@ uuid = "4cdab1ab-04c0-46a9-9e99-a8841ec61445"
 repo = "https://github.com/vchuravy/Experimental"
 
 [packages]
+3da0fdf6-3ccc-4f1b-acd9-58baa6c99267 = { name = "MPIABI", path = "M/MPIABI" }

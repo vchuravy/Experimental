@@ -4,3 +4,4 @@ repo = "https://github.com/vchuravy/Experimental"
 
 [packages]
 3da0fdf6-3ccc-4f1b-acd9-58baa6c99267 = { name = "MPIABI", path = "M/MPIABI" }
+692b3bcd-3c85-4b1f-b108-f13ce0eb3210 = { name = "JLLWrappers", path = "J/JLLWrappers" }
